@@ -1,0 +1,5 @@
+j=int(input())
+b=int(input())
+print(j, '+', b, '=', j + b)
+print(j, '-', b, '=', j - b)
+print(j, '*', b, '=', j * b)
